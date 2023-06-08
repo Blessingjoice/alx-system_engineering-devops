@@ -12,3 +12,4 @@ A script that changes the working directory to the previous one.
 lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
 Create a symbolic link to /bin/ls, named __ls__. The symbolic link is created in the current working directory.
+Copy HTML files
