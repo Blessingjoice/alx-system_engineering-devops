@@ -12,5 +12,6 @@ A script that sets the mode of the file hello to -rwxr-x-wx
 A script that sets the mode of the file hello the same as olleh’s mode
 A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 A script that creates a directory called my_dir with permissions 751 in the working directory.
-Write a script that changes the group owner to school for the file hello
-Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+A script that changes the group owner to school for the file hello
+A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+A script that changes the owner and the group owner of _hello to vincent and staff respectively. The file _hello is in the working directory and is a symbolic link
